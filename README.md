@@ -3,7 +3,7 @@
 `The app displays a question and upon taping the screen, reveals the answer
 
 ### App Walk-through
-`
+`![ezgif com-gif-maker](https://user-images.githubusercontent.com/89958513/156624730-42522e67-9132-4852-a29b-5175792f0060.gif)
 
 ## Required
 - [x] Create New Project in Android Studio
